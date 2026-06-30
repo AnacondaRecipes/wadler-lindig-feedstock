@@ -32,12 +32,12 @@ test:
 
 about:
   home: https://github.com/patrick-kidger/wadler_lindig
-  summary: A Wadler–Lindig pretty-printer for Python.
+  summary: A Wadler–Lindig pretty-printer for Python
   license: Apache-2.0
   license_family: Apache
   license_file: LICENSE
   description: |
-    A Wadler–Lindig pretty-printer for Python.
+    A Wadler–Lindig pretty-printer for Python
   dev_url: https://github.com/patrick-kidger/wadler_lindig
   doc_url: https://github.com/patrick-kidger/wadler_lindig
 
